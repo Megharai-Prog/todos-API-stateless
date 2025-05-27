@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# SQLite DB
+todos.db
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
